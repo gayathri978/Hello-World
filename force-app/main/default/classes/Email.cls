@@ -9,7 +9,7 @@ public class Email
          }
         else
         {
-            System.debug('invalid mail');
+            System.debug('invalid mail.....');
         }
     }
 }
